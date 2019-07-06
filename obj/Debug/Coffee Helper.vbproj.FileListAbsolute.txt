@@ -1,0 +1,12 @@
+C:\Users\Vilhelm\source\repos\Coffee Helper\bin\Debug\Coffee Helper.exe.config
+C:\Users\Vilhelm\source\repos\Coffee Helper\bin\Debug\Coffee Helper.exe
+C:\Users\Vilhelm\source\repos\Coffee Helper\bin\Debug\Coffee Helper.pdb
+C:\Users\Vilhelm\source\repos\Coffee Helper\bin\Debug\Coffee Helper.xml
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.vbprojAssemblyReference.cache
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee_Helper.Form1.resources
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee_Helper.Resources.resources
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.vbproj.GenerateResource.cache
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.vbproj.CoreCompileInputs.cache
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.exe
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.xml
+C:\Users\Vilhelm\source\repos\Coffee Helper\obj\Debug\Coffee Helper.pdb
